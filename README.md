@@ -22,6 +22,7 @@ Create a simple Docker swarm with Terraform
 3. Validate:
 
     docker node ls
+    
     docker container ls
 
 4. Verify the ghost blog running at IPADDRESS:80
